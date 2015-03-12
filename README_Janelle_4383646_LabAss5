@@ -1,4 +1,4 @@
-CS3130 Assignment 4
+CS3130 Assignment 5
 Janelle Montgomery
 
 A TCP-based client and server that accesses a database. You will be able to modify the database using : search,add,remove,and display. To do this TCP based protcol will be used.
@@ -25,7 +25,9 @@ Server:
 -500: Not a valid employee in the database
 +610: Display the entire content of the database
 
-In order to run this program you may type: python3 tcpmsg.py client/server in the Terminal window.
+In order to run this program you may type: python3 tcpmsg.py client/server and localhost in the Terminal window.
 
-Github URL: 
+This program has now been modified to run with SSL encryption.
+
+Github URL: https://github.com/JanellePearl/cs3130_assignment5
 
