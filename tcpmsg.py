@@ -182,7 +182,6 @@ def db_quit(host,port):
     exit(0)
 
 #used to handle the data being sent from the server to the client
-#still does not print entire database
 def recv_all(ssl_sock):
     
     commsg = ''
