@@ -1,0 +1,6 @@
+CS3130 Assignment 5
+Janelle Montgomery
+
+Part 1 of this assignment I downloaded openssh and then preformed TCP forwarding.
+I did this by typing in ssh -L 8080:127.0.0.1:2015 francoc@localhost
+into the terminal. I then ran my tcpmsg.py program ensuring that the client port was set to 8080.
